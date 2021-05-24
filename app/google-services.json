@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "351122783539",
+    "project_id": "testfreebase3",
+    "storage_bucket": "testfreebase3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351122783539:android:e10aa7a2b9e5d635f4d246",
+        "android_client_info": {
+          "package_name": "com.example.testfreebase3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351122783539-uv8mvdl27f3qmvhgbdr7i2d27r8bbgmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKR72qLteAZ7cNvOdWcXKtXt54N46SqFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351122783539-uv8mvdl27f3qmvhgbdr7i2d27r8bbgmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
